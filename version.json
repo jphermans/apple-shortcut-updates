@@ -1,0 +1,12 @@
+{
+  "name": "Mijn Shortcut",
+  "version": "1.0.0",
+  "min_ios": "26.0",
+  "mandatory": false,
+  "url": "https://www.icloud.com/shortcuts/ABCDE12345",
+  "changelog": [
+    "Bugfix in menu-logica",
+    "Snellere opstart",
+    "Nieuwe instellingen-optie"
+  ]
+}
